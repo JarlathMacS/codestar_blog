@@ -42,3 +42,5 @@ CVS
 **/.hg
 **/.DS_Store
 **/Thumbs.db
+
+blog/fixtures/
